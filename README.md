@@ -221,7 +221,7 @@ Ongoing   ████████████████████  DSA + Sy
    ║                                                      ║
    ║   I don't just build AI systems...                   ║
    ║   I try to break them, understand them,              ║
-   ║   and make them unbreakable. 🔐🤖                    ║
+   ║   and make them unbreakable. 🔐🤖                   ║
    ║                                                      ║
    ║   "Consistency + Real Projects = Growth"             ║
    ║                                                      ║
