@@ -169,10 +169,13 @@ class AkashSharma:
 ## 🎯 2025 Roadmap
 
 ```
-Q1-Q2 ████████████░░░░░░░░  LLM Security Research & Projects
-Q2-Q3 ██████░░░░░░░░░░░░░░  Deep ML — Neural Networks & Transformers
-Q3-Q4 ████░░░░░░░░░░░░░░░░  Open Source Contributions
-Ongoing ████████████████████  DSA + System Design (daily grind 💪)
+Q1-Q2     ████████████░░░░░░░░  LLM Security Research & Projects
+
+Q2-Q3     ██████░░░░░░░░░░░░░░  Deep ML — Neural Networks & Transformers
+
+Q3-Q4     ████░░░░░░░░░░░░░░░░  Open Source Contributions
+
+Ongoing   ████████████████████  DSA + System Design (daily grind 💪)
 ```
 
 ### 🧩 Currently Focused On
