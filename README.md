@@ -5,7 +5,7 @@
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7DF9FF&center=true&vCenter=true&width=600&lines=🔐+Breaking+%26+Securing+AI+Systems;🤖+Building+LLM+Defense+Architectures;🧠+ML+Engineer+in+the+Making;📊+Data+%2B+Code+%2B+Curiosity+%3D+Me;⚡+Consistency+%2B+Real+Projects+%3D+Growth" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7DF9FF&center=true&vCenter=true&width=600&height=60&lines=🔐+Breaking+%26+Securing+AI+Systems;🤖+Building+LLM+Defense+Architectures;🧠+ML+Engineer+in+the+Making;📊+Data+%2B+Code+%2B+Curiosity+%3D+Me;⚡+Consistency+%2B+Real+Projects+%3D+Growth" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -218,7 +218,7 @@ Ongoing ████████████████████  DSA + Syst
    ║                                                      ║
    ║   I don't just build AI systems...                   ║
    ║   I try to break them, understand them,              ║
-   ║   and make them unbreakable. 🔐🤖                   ║
+   ║   and make them unbreakable. 🔐🤖                    ║
    ║                                                      ║
    ║   "Consistency + Real Projects = Growth"             ║
    ║                                                      ║
