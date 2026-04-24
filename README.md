@@ -169,13 +169,10 @@ class AkashSharma:
 ## 🎯 2025 Roadmap
 
 ```
-Q1-Q2     ████████████░░░░░░░░  LLM Security Research & Projects
-
-Q2-Q3     ██████░░░░░░░░░░░░░░  Deep ML — Neural Networks & Transformers
-
-Q3-Q4     ████░░░░░░░░░░░░░░░░  Open Source Contributions
-
-Ongoing   ████████████████████  DSA + System Design (daily grind 💪)
+Q1-Q2 ████████████░░░░░░░░  LLM Security Research & Projects
+Q2-Q3 ██████░░░░░░░░░░░░░░  Deep ML — Neural Networks & Transformers
+Q3-Q4 ████░░░░░░░░░░░░░░░░  Open Source Contributions
+Ongoing ████████████████████  DSA + System Design (daily grind 💪)
 ```
 
 ### 🧩 Currently Focused On
@@ -191,7 +188,7 @@ Ongoing   ████████████████████  DSA + Sy
 ## 🏆 Achievements & Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akash77007&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=akash77007&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
 </div>
 
 ---
