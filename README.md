@@ -84,7 +84,7 @@ class AkashSharma:
 ### 🔐 Neuro-Sentry Defense System
 > *AI Security Platform for LLM Protection*
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akash77007&repo=Neuro-Sentry&theme=tokyonight)](https://github.com/akash77007)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vic-41148&repo=secure-llm-inference-platform&theme=tokyonight)](https://github.com/Vic-41148/secure-llm-inference-platform)
 
 - 🚨 Detects **prompt injection** & **jailbreak attacks** in real-time
 - 🛡️ Multi-layer defense: sanitization → vector analysis → threat scoring
@@ -99,7 +99,7 @@ class AkashSharma:
 ### ⛓️ Skill NFT Verification System
 > *Blockchain-based Credential Platform*
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akash77007&repo=skill-nft&theme=tokyonight)](https://github.com/akash77007)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akash77007&repo=Skill-NFT-Verification-Mint-when-teacher-signs-off&theme=tokyonight)](https://github.com/akash77007/Skill-NFT-Verification-Mint-when-teacher-signs-off)
 
 - 🎓 On-chain **skill-based NFT** creation & management
 - ✔️ Teacher verification mechanism for authenticity
@@ -116,7 +116,7 @@ class AkashSharma:
 ### 📊 Exploratory Data Analysis Pipeline
 > *End-to-End Data Analysis System*
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akash77007&repo=eda-pipeline&theme=tokyonight)](https://github.com/akash77007)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akash77007&repo=Data_Preprocessing_Project&theme=tokyonight)](https://github.com/akash77007/Data_Preprocessing_Project)
 
 - 🧹 Robust data preprocessing & outlier handling
 - 📈 Statistical analysis with visual storytelling
@@ -130,7 +130,7 @@ class AkashSharma:
 ### 🛒 Grocery Management System
 > *Full-Stack Web Application*
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akash77007&repo=grocery-app&theme=tokyonight)](https://github.com/akash77007)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akash77007&repo=Grocery-Management-Website&theme=tokyonight)](https://github.com/akash77007/Grocery-Management-Website)
 
 - 🧾 Complete product & order management
 - 🔗 **Flask** backend + **MySQL** database
@@ -218,7 +218,7 @@ Ongoing ████████████████████  DSA + Syst
    ║                                                      ║
    ║   I don't just build AI systems...                   ║
    ║   I try to break them, understand them,              ║
-   ║   and make them unbreakable. 🔐🤖                    ║
+   ║   and make them unbreakable. 🔐🤖                   ║
    ║                                                      ║
    ║   "Consistency + Real Projects = Growth"             ║
    ║                                                      ║
