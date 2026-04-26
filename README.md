@@ -308,12 +308,12 @@ class AkashSharma:
 ║                                                              ║
 ║      I don't just build AI systems...                        ║
 ║      I try to BREAK them, UNDERSTAND them,                   ║
-║      and make them UNBREAKABLE. 🔐🤖                        ║
+║      and make them UNBREAKABLE.                              ║
 ║                                                              ║
-║      "Consistency + Real Projects = Growth" ⚡               ║
+║      "Consistency + Real Projects = Growth"                  ║
 ║                                                              ║
-║      If you're reading this — let's build something          ║
-║      that actually matters together. 🚀                      ║
+║      If you're reading this -- let's build something         ║
+║      that actually matters together.                         ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
